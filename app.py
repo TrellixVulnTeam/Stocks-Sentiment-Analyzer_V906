@@ -44,7 +44,7 @@ print("API Tokens Done \n")
 
 st.write("""
 # Stocks Prediction App
-This Web App predicts the sentiments' probability of the input stock on the basis of sentiments of past hour tweets trained in a Flair Model. You can find the entire source code for the models and web deployment [here](https://github.com/BugBear646/Stocks-Sentiment-Analyzer/).
+This Web App analyzes the behaviour of the input stock on the basis of sentiments of past hour tweets trained in a Flair Model. You can find the entire source code for the models and web deployment [here](https://github.com/BugBear646/Stocks-Sentiment-Analyzer/).
 Feel free to fork and contribute.😀
 """)
 st.sidebar.header('User Input Stock')
