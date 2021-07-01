@@ -73,14 +73,12 @@ We are also comapring the input stock performance with two competitor stocks on 
 
 ## Installation:
 
-1. Get a free API Key at [https://example.com](https://example.com)
-
-2. Cloning the Repo
+1. Cloning the Repo
    ```sh
    git clone https://github.com/BugBear646/Stocks-Sentiment-Analyzer.git
    ```
    
-3. Running the Application
+2. Running the Application
    ```python
    streamlit run app.py
    ```
