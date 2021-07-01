@@ -23,7 +23,7 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## About The Project:
 
 This is a Streamlit deployed Web Application, used to analyze and compare stocks. Mass psychology's effects may be one of the factors driving the market. We can measure and use to predict market movement with surprising accuracy levels. We used the the social media and news contents for scrapping real-time information.
 
@@ -38,7 +38,7 @@ This section should list any major frameworks that you built your project using.
 
 
 <!-- GETTING STARTED -->
-## Getting Started
+## Getting Started:
 
 We have used a pre-trained sentiment analysis model from the **flair**(DistilBERT Model) library. This model splits the text into character-level tokens and uses the DistilBERT model to make predictions of words, that the network has never seen before can assign it a sentiment. 
 
@@ -88,7 +88,7 @@ We are also comapring the input stock performance with two competitor stocks on 
 
 
 <!-- CONTRIBUTING -->
-## Contributing
+## Contributing:
 
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated 😍**.
 
@@ -101,7 +101,7 @@ Contributions are what make the open source community such an amazing place to b
 
 
 <!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
+## Literature References:
 * Twitter Sentiment Analysis. Available from: [Link](https://www.researchgate.net/publication/352780855_Twitter_Sentiment_Analysis).
 * Twitter Developer Docs. Available from: [Link](https://developer.twitter.com/en/docs).
 * FLAIR: An Easy-to-Use Framework for State-of-the-Art NLP. Available from: [Link](https://aclanthology.org/N19-4010/).
