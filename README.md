@@ -16,7 +16,7 @@
     <li><a href="#prerequisites">Prerequisites</a></li>
     <li><a href="#installation">Installation</a></li>
     <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#acknowledgements">Literature References </a></li>
+    <li><a href="#literature-references">Literature References</a></li>
   </ol>
 </details>
 
@@ -98,7 +98,7 @@ Contributions are what make the open source community such an amazing place to b
 
 
 
-<!-- ACKNOWLEDGEMENTS -->
+<!-- LITERATURE REFERENCES -->
 ## Literature References:
 * Twitter Sentiment Analysis. Available from: [Link](https://www.researchgate.net/publication/352780855_Twitter_Sentiment_Analysis).
 * Twitter Developer Docs. Available from: [Link](https://developer.twitter.com/en/docs).
