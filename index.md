@@ -100,10 +100,10 @@ Contributions are what make the open source community such an amazing place to b
 
 <!-- LITERATURE REFERENCES -->
 ## Literature References:
-* Twitter Sentiment Analysis. Available from: [Link](https://www.researchgate.net/publication/352780855_Twitter_Sentiment_Analysis).
-* Twitter Developer Docs. Available from: [Link](https://developer.twitter.com/en/docs).
-* FLAIR: An Easy-to-Use Framework for State-of-the-Art NLP. Available from: [Link](https://aclanthology.org/N19-4010/).
-* Multilingual Twitter Sentiment Classification: The Role of Human Annotators. Available from: [Link](https://arxiv.org/pdf/1602.07563v2.pdf).
+* Twitter Sentiment Analysis. Available from: [Link here](https://www.researchgate.net/publication/352780855_Twitter_Sentiment_Analysis).
+* Twitter Developer Docs. Available from: [Link here](https://developer.twitter.com/en/docs).
+* FLAIR: An Easy-to-Use Framework for State-of-the-Art NLP. Available from: [Link here](https://aclanthology.org/N19-4010/).
+* Multilingual Twitter Sentiment Classification: The Role of Human Annotators. Available from: [Link here](https://arxiv.org/pdf/1602.07563v2.pdf).
 
 
 
