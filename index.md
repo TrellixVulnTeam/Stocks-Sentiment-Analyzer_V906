@@ -1,4 +1,4 @@
-# Stalk Sentiment Analyzer
+# Stocks Sentiment Analyzer
 
 [![Python Versions](https://img.shields.io/pypi/pyversions/yt2mp3.svg)](https://pypi.python.org/pypi/yt2mp3/)
 [![PyPI license](https://img.shields.io/pypi/l/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
