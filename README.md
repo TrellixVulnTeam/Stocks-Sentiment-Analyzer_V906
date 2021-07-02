@@ -44,7 +44,7 @@ We have used a pre-trained sentiment analysis model from the **flair**(DistilBER
 
 DistilBERT is a distilled version of the powerful BERT transformer model — which in-short means — it is a ‘small’ model (only 66 million parameters), and is still super powerful. We have used the flair model for calculating the **Prediction Score**. Prediction Score is a measure of how well the stock gone to be performing on the basis of past hour tweets. 
 
-We are also comapring the input stock performance with two competitor stocks on a **nltk** trained sentiment analysis model and parses the [FinViz](https://finviz.com/) stock screener for past one week news headlines.
+We are also comapring the input stock performance with two competitor stocks on a **NLTK** trained sentiment analysis model and parses the [FinViz](https://finviz.com/) stock screener for past one week news headlines.
 
 ## Prerequisites:
 1. Installing PyTorch on Windows
