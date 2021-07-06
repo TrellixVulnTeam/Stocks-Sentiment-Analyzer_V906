@@ -212,11 +212,11 @@ if st.button("Predict"):
     fig3.update_layout(title="<b>Input Stock Current Twitter Sentiment Analysis</b>")
     st.plotly_chart(fig3)
 
-    st.success("The Probability of Positive Sentiments: "+str(Positive_Score))
-    st.success("The Probability of Negative Sentiments: "+str(Negative_Score))
-    st.success("The stock has a Prediction Probability Score of: "+str(Prediction_Score))
+    st.success("The Positive Sentiments' Score: "+str(Positive_Score))
+    st.success("The Negative Sentiments' Score: "+str(Negative_Score))
+    st.success("The stock has a Predictor Score of: "+str(Prediction_Score))
     st.write("""
-    The Prediction Probability Score is a measure of how the stock is performing. If >1, then it is performing well, and if 0<Prediction Probability Score<1 then the performace is poor.
+    The Predictor Score is a measure of how the stock is performing. If >1, then it is performing well, and if 0<Prediction Probability Score<1 then the performace is poor.
     The more greater it is from 1, the more better it is performing and vice versa.
     """)
 
