@@ -31,7 +31,7 @@ A list of commonly used resources that I find helpful are listed in the literatu
 
 ### Built With
 
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+This section should list any major frameworks that we built our project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 * [Streamlit](https://streamlit.io/)
 * [Flair](https://github.com/flairNLP/flair)
 * [PyTorch](https://pytorch.org/)
