@@ -69,7 +69,7 @@ We are also comapring the input stock performance with two competitor stocks on 
    ```python
    pip install flair
    ```
-
+5. Installing packages from requirements.txt
 
 ## Installation:
 
